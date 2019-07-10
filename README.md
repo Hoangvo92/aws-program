@@ -47,4 +47,9 @@ Happy coding!
   
   
     Also, at around 3 minutes and 40 seconds into the video Colt uses the class name btn-large to style the bootstrap button. The class name should actually be: btn-lg
-#
+# Style of quests page
+  * Add a better header/title
+  * Make quests display in a grid
+#style the Navbar and Form
+  *Add a navbar to all templates
+  *Style the new Quest Form

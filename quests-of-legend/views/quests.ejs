@@ -1,0 +1,11 @@
+<% include partials/header %>
+<h1>This is the Quests page!</h1>
+<% quests.forEach(function(quest){ %>
+     <div>
+         <h4>  <%= quest.name %> </h4>
+         <img src="<%= quest.image %>">
+     </div>
+
+<% }); %>
+
+<% include partials/footer %>

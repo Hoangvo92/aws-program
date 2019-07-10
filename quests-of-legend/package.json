@@ -1,0 +1,16 @@
+{
+  "name": "quests-of-legend",
+  "version": "1.0.0",
+  "description": "a software to store stories and characters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoang Vo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}

@@ -12,6 +12,9 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
+https://us-east-1.console.aws.amazon.com/cloud9/ide/59936b8fb91f402caaaa83340b46032c
+https://us-east-1.console.aws.amazon.com/cloud9/home?region=us-east-1#
 # aws-program
 # Quests of Legend
  * add landing Page
@@ -50,6 +53,13 @@ Happy coding!
 # Style of quests page
   * Add a better header/title
   * Make quests display in a grid
-#style the Navbar and Form
+  
+# style the Navbar and Form
   *Add a navbar to all templates
   *Style the new Quest Form
+
+# Adding mongoose
+  *install and configure mongoose
+  *Setup quests model
+  *Use quests model inside of your routes
+       
